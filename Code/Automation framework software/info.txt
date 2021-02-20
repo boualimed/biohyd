@@ -1,0 +1,3 @@
+/*
+using opensource software openhab, supla, ...
+*/
