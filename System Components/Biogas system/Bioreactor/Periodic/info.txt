@@ -1,1 +1,11 @@
 equipments for periodic operating bioreactor 
+1- bioreactor (digester)
+2- mixing system 
+3- heating system 
+4- thermometer 
+5- ph-meter
+6- tubes
+7- gas reservoir 
+8- valves 
+9- gas manometer 
+10- stand
