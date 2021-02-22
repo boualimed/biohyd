@@ -1,0 +1,3 @@
+There two types of bioreactor:
+1- periodic
+2- continuous 
