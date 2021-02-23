@@ -1,5 +1,6 @@
 # OpenPLC will be used in this project
-below you will find all the details on how to install and use it. 
+
+ All the details on how to use the software are below. 
 
 # OpenPLC Runtime version 3
 
