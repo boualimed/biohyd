@@ -1,4 +1,0 @@
-
-/*
-human interface machine, using project like scadabr
-*/
