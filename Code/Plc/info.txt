@@ -1,4 +1,0 @@
-
-/*
-using programming logic controller project like openplc
-*/
